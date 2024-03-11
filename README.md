@@ -7,43 +7,43 @@
 
 [課程Youtube直播連結](https://www.youtube.com/@omnixri1784/streams)
 
-- **<font color=blue>2024/03/05</font>** Ch_0 課程簡介  
+- **<font color=blue>2024/03/05</font>** [Ch_0 課程簡介](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch00_Course_Introduction)  
     0.1 課程源起  
     0.2 課程簡介  
     0.3 講師簡介  
     0.4 課程大綱  
     0.5 教學資源  
-- **<font color=blue>2024/03/05</font>** Ch_01 邊緣人工智慧簡介  
+- **<font color=blue>2024/03/05</font>** [Ch_01 邊緣人工智慧簡介](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch01_EdgeAI_Introduction)  
     1.1 人工智慧  
     1.2 機器學習  
     1.3 深度學習  
     1.4 生成式智慧  
-- **<font color=blue>2024/03/12</font>** Ch_02 邊緣運算硬體  
+- **<font color=blue>2024/03/12</font>** [Ch_02 邊緣運算硬體](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch02_EdgeAI_Hardware)  
     2.1 基本運算原理  
     2.2 加速運算晶片  
     2.3 開發板類型  
     2.4 硬體選用評估  
-- **<font color=blue>2024/03/19</font>** Ch_03 資料集建置與標註  
+- **<font color=blue>2024/03/19</font>** [Ch_03 資料集建置與標註](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch03_Dataset_Annotation)  
     3.1 資料集建置  
     3.2 公開資料集  
     3.3 資料集標註  
     3.4 資料集迷思  
-- **<font color=blue>2024/03/26</font>** Ch_04 開源模型訓練工具  
+- **<font color=blue>2024/03/26</font>** [Ch_04 開源模型訓練工具](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch04_Training_Tools)  
     4.1 AI工作流程  
     4.2 常見模型算法  
     4.3 開源訓練工具  
     4.4 影像分類範例  
-- **<font color=blue>2024/04/02</font>** Ch_05 開源模型推論工具  
+- **<font color=blue>2024/04/02</font>** [Ch_05 開源模型推論工具](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch05_Inference_Tools)  
     5.1 邊緣推論工具簡介  
     5.2 OpenVINO簡介  
     5.3 OpenVINO多媒體處理  
     5.4 OpenVINO Notebooks  
-- **<font color=blue>2024/04/09</font>** Ch_06 模型優化與佈署  
+- **<font color=blue>2024/04/09</font>** [Ch_06 模型優化與佈署](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch06_Model_Optimization)  
     6.1 模型訓練優化  
     6.2 加速訓練方式  
     6.3 模型推論優化  
     6.4 OpenVINO優化工具  
-- **<font color=blue>2024/04/16</font>** Ch_07 微型機器學習簡介  
+- **<font color=blue>2024/04/16</font>** [Ch_07 微型機器學習簡介](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch07_TinyML_Introduction)  
     7.1 嵌入式系統與微控制器  
     7.2 TinyML技術現況  
     7.3 TinyML開發平台  
