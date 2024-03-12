@@ -78,6 +78,3 @@ https://www.youtube.com/@omnixri1784/videos
 
 OmniXRI Github 課程簡報及相關範例：  
 https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024
-
----
-註：本課程非學校正式課程，現僅有老師一人，沒有教學助理可幫忙，如操作上有相關問題，請於Youtube, FB Group, Blogger, Medium, Hackmd, Github 各討論區中留言，老師會儘量協助，如有服務不週之處尚請見諒。
