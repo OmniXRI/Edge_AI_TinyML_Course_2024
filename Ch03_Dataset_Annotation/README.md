@@ -1,6 +1,9 @@
 # OmniXRI's Edge AI & TinyML 小學堂 【第3講】資料集建置與標註
 作者：許哲豪(Jack Hsu), 2024/03/19
 
+**完整簡報： 20240319_Course_03_OmniXRI_Jack.pdf**
+**YOUTUBE直播： https://youtu.be/d655nS-0XmM**
+
 **<font color="#f00">本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。</font>**
 
 ## 3.1.資料集建置
