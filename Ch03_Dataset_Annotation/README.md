@@ -1,5 +1,5 @@
 # OmniXRI's Edge AI & TinyML 小學堂 【第3講】資料集建置與標註
-作者：許哲豪(Jack Hsu), 2024/03/19
+作者：許哲豪(Jack Hsu), 2024/03/19建立
 
 **完整簡報： 20240319_Course_03_OmniXRI_Jack.pdf**
 
