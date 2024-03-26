@@ -1,9 +1,9 @@
 # OmniXRI's Edge AI & TinyML 小學堂 【第4講】開源模型訓練工具
 作者：許哲豪(Jack Hsu), 2024/3/26建立
 
-完整簡報： 20240326_Course_04_OmniXRI_Jack.pdf
+**完整簡報： 20240326_Course_04_OmniXRI_Jack.pdf**
 
-YOUTUBE直播： https://youtu.be/gCjicAOemp4
+**YOUTUBE直播： https://youtu.be/gCjicAOemp4**
 
 **<font color="#f00">本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。</font>**
 
