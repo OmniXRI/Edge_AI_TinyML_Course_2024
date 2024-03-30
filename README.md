@@ -30,14 +30,11 @@
     3.4 資料集迷思  
 - **<font color=blue>2024/03/26</font>** [Ch_04 開源模型訓練工具](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch04_Training_Tools)  
     4.1 AI工作流程  
-    4.2 常見模型算法  
-    4.3 開源訓練工具  
-    4.4 影像分類範例  
+    4.2 開源訓練工具  
 - **<font color=blue>2024/04/02</font>** [Ch_05 開源模型推論工具](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch05_Inference_Tools)  
-    5.1 邊緣推論工具簡介  
+    5.1 常見邊緣推論工具簡介  
     5.2 OpenVINO簡介  
-    5.3 OpenVINO多媒體處理  
-    5.4 OpenVINO Notebooks  
+    5.3 OpenVINO Notebooks簡介 
 - **<font color=blue>2024/04/09</font>** [Ch_06 模型優化與佈署](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch06_Model_Optimization)  
     6.1 模型訓練優化  
     6.2 加速訓練方式  
