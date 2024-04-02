@@ -2,6 +2,7 @@
 作者：許哲豪(Jack Hsu), 2024/4/2建立
 
 **完整簡報： 20240402_Course_05_OmniXRI_Jack.pdf**  
+
 **Youtube直播： https://youtu.be/6By3GXuEpFc**  
 
 **<font color="#f00">本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。</font>**
