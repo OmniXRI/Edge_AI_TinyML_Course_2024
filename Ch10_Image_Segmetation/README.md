@@ -17,6 +17,9 @@
 - 影像分割標註
     - 常見影像分割標註方式
     - 影像分割標註工具
+        - [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
+        - [superpixels-segmentation](https://github.com/Labelbox/superpixels-segmentation)
+        - [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) 
     - VOC語義分割資料格式
     - PNG8 (Indexed, Palette)格式
     - COCO語義分割資料格式
