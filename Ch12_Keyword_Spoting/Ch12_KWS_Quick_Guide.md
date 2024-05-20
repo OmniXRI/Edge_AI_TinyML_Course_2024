@@ -246,7 +246,7 @@ void loop()
     for (size_t ix = 0; ix < EI_CLASSIFIER_LABEL_COUNT; ix++) {
         ei_printf("    %s: %.5f\n", result.classification[ix].label, result.classification[ix].value);
 
-        //lets light up some LEDS
+        // 假設推論結果置信度超過門檻值，則令指定的LED點滅
         if (result.classification[ix].value > threshold) {
           //now let's see what label were in
           switch (ix) {
@@ -255,13 +255,13 @@ void loop()
             case 2: LED = 13; break; // GREEN LED
             default: LED = 0;
           }
-          //in Sense, LOW will light up the LED
+          // 若LED變數不為零則點亮 LED 
           if (LED != 0) {
             digitalWrite (oldLED, HIGH); //if we enter a word right next to previous - we turn off the previous LED
             digitalWrite (LED, LOW);            
             oldLED = LED;
           }
-          else //turn off LED
+          else // 反之熄滅 LED 
             digitalWrite (oldLED, HIGH);
         }
     }
