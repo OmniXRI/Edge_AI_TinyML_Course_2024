@@ -21,6 +21,9 @@
 ## 12.2.喚醒詞技術簡介
 - 喚醒詞偵測
 - 案例分享 ─ 聲控電風扇
+    - [正確示範（美女版）](https://www.youtube.com/shorts/X8yJjRj7Uus)
+    - [錯誤示範（阿媽版）](https://www.youtube.com/shorts/frDYfeRiz9I)
+    - [正確示範（台灣國語）](https://youtu.be/vpZgt0VQf8Y)
 - 聲音訊號─取樣、量化
 - 常見聲音訊號波形（時間域）
 - 時間域、頻率域轉換
