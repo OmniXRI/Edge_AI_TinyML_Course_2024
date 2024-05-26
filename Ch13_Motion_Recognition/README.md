@@ -3,7 +3,7 @@
 
 **完整課程簡報：20240528_Course_13_OmniXRI_Jack.pdf**
 
-**Youtube直播影片：**
+**Youtube直播影片：https://youtube.com/live/7vr6FfhaRfs**
 
 **<font color="#f00">本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。</font>**
 
