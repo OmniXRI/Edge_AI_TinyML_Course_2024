@@ -114,7 +114,7 @@ https://wiki.seeedstudio.com/cn/XIAO-BLE-Sense-TFLite-Getting-Started/
 7. 切換到 Spectral features，切換到 Generate features 子分頁，按下「Generate features」產生對應特徵值。
 8. 切換到 Classifier，設定訓練次數 30，學習率 0.0005，其它先使用預設值，按下「Start training」即可開始訓練。若推論精度及混淆矩陣表現不理想，可再增加訓練次數。
 9. 若效果仍不理想，可將 Neural network architecture 二層 Dense Layer Neural數量都增加到 40（層數、神經元數可自定），再重新訓練即可。
-10. 完成訓練後，可切到 Live Classification 頁面，選擇左半部 Classify new data，再按「Start sampling」即可進行取樣並進行線上測試。11. 
+10. 完成訓練後，可切到 Live Classification 頁面，選擇左半部 Classify new data，再按「Start sampling」即可進行取樣並進行線上測試。
 
 ## 13.5 部署及測試  
 
