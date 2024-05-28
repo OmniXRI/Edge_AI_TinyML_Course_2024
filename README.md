@@ -45,12 +45,12 @@
     7.2 TinyML技術現況  
     7.3 TinyML開發平台  
     7.4 TinyML主要應用  
-- **<font color=blue>2024/04/23</font>** Ch_08 實作案例 ─ 影像分類  
-- **<font color=blue>2024/04/30</font>** Ch_09 實作案例 ─ 物件偵測  
-- **<font color=blue>2024/05/07</font>** Ch_10 實作案例 ─ 影像分割  
-- **<font color=blue>2024/05/14</font>** Ch_11 實作案例 ─ 姿態估測  
-- **<font color=blue>2024/05/21</font>** Ch_12 實作案例 ─ 語音辨識  
-- **<font color=blue>2024/05/28</font>** Ch_13 實作案例 ─ 運動辨識  
-- **<font color=blue>2024/06/04</font>** Ch_14 實作案例 ─ 異常偵測  
-- **<font color=blue>2024/06/11</font>** Ch_15 實作案例 ─ 文字語音生成  
-- **<font color=blue>2024/06/18</font>** Ch_16 實作案例 ─ 影像音樂生成  
+- **<font color=blue>2024/04/23</font>** [Ch_08 實作案例 ─ 影像分類](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch08_Image_Classification)  
+- **<font color=blue>2024/04/30</font>** [Ch_09 實作案例 ─ 物件偵測](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch09_Object_Detection) 
+- **<font color=blue>2024/05/07</font>** [Ch_10 實作案例 ─ 影像分割](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch10_Image_Segmetation) 
+- **<font color=blue>2024/05/14</font>** [Ch_11 實作案例 ─ 姿態估測](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch11_Pose_Estimation)  
+- **<font color=blue>2024/05/21</font>** [Ch_12 實作案例 ─ 語音辨識](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch12_Keyword_Spoting) 
+- **<font color=blue>2024/05/28</font>** [Ch_13 實作案例 ─ 運動辨識](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch13_Motion_Recognition)  
+- **<font color=blue>2024/06/04</font>** [Ch_14 實作案例 ─ 異常偵測](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch14_Anomaly_Detection)  
+- **<font color=blue>2024/06/11</font>** [Ch_15 實作案例 ─ 文字語音生成](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch15_Text_Voice_Generation)  
+- **<font color=blue>2024/06/18</font>** [Ch_16 實作案例 ─ 影像音樂生成](https://github.com/OmniXRI/Edge_AI_TinyML_Course_2024/tree/main/Ch16_Image_Music_Generation)  
