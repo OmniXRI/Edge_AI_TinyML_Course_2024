@@ -71,42 +71,42 @@
 
 ## 參考文獻
 
-[1] 許哲豪，NTUST Edge AI 人工智慧與邊緣運算實務
+[1] 許哲豪，NTUST Edge AI 人工智慧與邊緣運算實務  
 https://omnixri.blogspot.com/p/ntust-edge-ai.html
 
-[2] 許哲豪，有了TinyML加持MCU也能開始玩電腦視覺了
+[2] 許哲豪，有了TinyML加持MCU也能開始玩電腦視覺了  
 https://omnixri.blogspot.com/2022/12/tinymlmcu.html
 
-[3] Himax, WiseEye2 AI Processor (WE2) (HX6538)
+[3] Himax, WiseEye2 AI Processor (WE2) (HX6538)  
 https://www.himax.com.tw/products/wiseeye-ai-sensing/wiseeye2-ai-processor/
 
-[4] Seeed, Grove - Vision AI V2模块人工智能
+[4] Seeed, Grove - Vision AI V2模块人工智能  
 https://wiki.seeedstudio.com/cn/grove_vision_ai_v2/
 
-[5] Seeed, SenseCraft AI
+[5] Seeed, SenseCraft AI  
 https://sensecraft.seeed.cc/ai/#/home
 
-[6] Edge Impulse Document – Seeed Grove – Vision AI Module
+[6] Edge Impulse Document – Seeed Grove – Vision AI Module  
 https://docs.edgeimpulse.com/docs/edge-ai-hardware/mcu-+-ai-accelerators/seeed-grove-vision-ai
 
 ## 延伸閱讀
 
-[A] 許哲豪，【AI HUB專欄】導入AI異常偵測技術讓傳產也能邁向智慧製造
+[A] 許哲豪，【AI HUB專欄】導入AI異常偵測技術讓傳產也能邁向智慧製造  
 https://omnixri.blogspot.com/2020/06/ai-hubai.html
 
-[B] 許哲豪，【AI HUB專欄】如何利用時序型資料異常偵測提昇智慧製造成效
+[B] 許哲豪，【AI HUB專欄】如何利用時序型資料異常偵測提昇智慧製造成效  
 https://omnixri.blogspot.com/2020/06/ai-hub.html
 
-[C] 許哲豪，【AI HUB專欄】導入AI表面瑕疵異常偵測提升智慧製造品質
+[C] 許哲豪，【AI HUB專欄】導入AI表面瑕疵異常偵測提升智慧製造品質  
 https://omnixri.blogspot.com/2020/07/ai-hubai.html
 
-[D] 許哲豪，【AI HUB專欄】生成對抗網路不只能變臉也能成為異常偵測好幫手
+[D] 許哲豪，【AI HUB專欄】生成對抗網路不只能變臉也能成為異常偵測好幫手  
 https://omnixri.blogspot.com/2020/08/ai-hub.html
 
-[E] 許哲豪，【AI HUB專欄】利用深度學習技術讓裂縫無所遁形
+[E] 許哲豪，【AI HUB專欄】利用深度學習技術讓裂縫無所遁形  
 https://omnixri.blogspot.com/2020/11/ai-hub_23.html
 
-[F] 許哲豪，【AI HUB專欄】介於有和沒有之間的深度度量學習應用於異常偵測
+[F] 許哲豪，【AI HUB專欄】介於有和沒有之間的深度度量學習應用於異常偵測  
 https://omnixri.blogspot.com/2020/12/ai-hub.html
 
 ## 教學資源
