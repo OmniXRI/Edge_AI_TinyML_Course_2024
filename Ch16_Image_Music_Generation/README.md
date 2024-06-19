@@ -42,9 +42,8 @@
 ## 16.4.音樂生成應用實例
 - 音樂生成應用實例 ─ MusicGen 字生樂
 - 音樂生成應用實例 ─ MusicGen 互動介面
-
-- 更多 Intel OpenVINO AIGC 範例
-
+- 
+- 更多 [Intel OpenVINO AIGC 範例](https://openvinotoolkit.github.io/openvino_notebooks/)
 
 ## 參考文獻
 
