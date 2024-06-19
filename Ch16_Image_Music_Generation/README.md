@@ -42,7 +42,8 @@
 ## 16.4.音樂生成應用實例
 - 音樂生成應用實例 ─ MusicGen 字生樂
 - 音樂生成應用實例 ─ MusicGen 互動介面
-- 
+- 範例4： [Controllable Music Generation with MusicGen and OpenVINO(Colab)](https://colab.research.google.com/github/openvinotoolkit/openvino_notebooks/blob/latest/notebooks/music-generation/music-generation.ipynb)
+
 - 更多 [Intel OpenVINO AIGC 範例](https://openvinotoolkit.github.io/openvino_notebooks/)
 
 ## 參考文獻
